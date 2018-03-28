@@ -165,8 +165,8 @@ def GetComment(key):
 if __name__ == '__main__':
 
     # 定义变量
-    username = '1207467967@qq.com'  # 输入你的用户名
-    password = '1207467967qq'  # 输入你的密码
+    username = '1111111@qq.com'  # 输入你的用户名
+    password = '1111111111'  # 输入你的密码
 
     # 操作函数
     LoginWeibo(username, password)  # 登陆微博
